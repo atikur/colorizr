@@ -24,3 +24,9 @@ Class methods:
 String.colors
 String.sample_colors
 ```
+
+# installation
+
+```
+gem install colorizr-0.0.1.gem
+```
