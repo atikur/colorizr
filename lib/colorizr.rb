@@ -13,6 +13,12 @@ class String
   def self.colors
     @@color_names.map { |name| name.to_sym }
   end
+
+  def self.sample_colors
+    @@color_names.each do |name|
+      puts "This is " + "#{name}".public_send(name)
+    end
+  end
 end
 
 String.create_colors
