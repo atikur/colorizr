@@ -1,0 +1,21 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+-----------------------------------------------------------
+
+Using Ruby's metaprogramming capabilities, the colorizr gem dynmically generates different
+method names for different colors.
+
+# REFLECTIONS
+# -------------------------------------------------------
+1. How long did you spend working on this project?
+
+I spent about 2-3 hours to complete the project.
+
+2. What was the most rewarding challenge you conquered?
+
+Using meta programming to dynamically generate different method names was the most 
+challening task. 
+
+3. Where do you still have room to grow?
+
+a) Add support for more colors
+b) Improve the documentation file
